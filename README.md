@@ -13,7 +13,9 @@ I'm a passionate developer with experience in [Javascript, React Js and Node Js]
 
 
 ## Projects
-*(Coming soon!)*
+- [Advanced React Patterns](https://github.com/Roo2ja/advanced-react-patterns)
+- [Custom React Hooks](https://github.com/Roo2ja/custom-react-hooks)
+*(More Coming soon!)*
 
 ## Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/rutuja-b)
